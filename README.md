@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro315&show_icons=true&count_private=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro315&show_icons=true&count_private=true)
+-->
 <!-- Zenn -->
 <p align="left">
   <a href="https://zenn.dev/hiro315">

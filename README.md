@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Zenn -->
+<p align="left">
+  <a href="https://zenn.dev/hiro315">
+    <img src="https://badgen.org/img/zenn/hiro315/likes?style=for-the-badge" alt="Likes" />
+  </a>
+  <a href="https://zenn.dev/hiro315">
+    <img src="https://badgen.org/img/zenn/hiro315/followers?style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://zenn.dev/hiro315">
+    <img src="https://badgen.org/img/zenn/hiro315/articles?style=for-the-badge" alt="Articles" />
+  </a>
+  <a href="https://zenn.dev/hiro315?tab=scraps">
+    <img src="https://badgen.org/img/zenn/hiro315/scraps?style=for-the-badge" alt="Scraps" />
+  </a>
+</p>

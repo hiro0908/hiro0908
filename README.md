@@ -31,3 +31,6 @@ Here are some ideas to get you started:
     <img src="https://badgen.org/img/zenn/hiro315/scraps?style=for-the-badge" alt="Scraps" />
   </a>
 </p>
+<!--START_SECTION:lapras-card-->
+
+<!--END_SECTION:lapras-card-->

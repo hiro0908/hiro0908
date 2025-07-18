@@ -13,3 +13,4 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "MQQGHNU"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 

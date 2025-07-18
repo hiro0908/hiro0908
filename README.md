@@ -32,5 +32,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 <!--START_SECTION:lapras-card-->
+name: LAPRAS Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          SHARE_ID: "MQQGHNU"
 
 <!--END_SECTION:lapras-card-->

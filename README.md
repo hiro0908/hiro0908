@@ -32,6 +32,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/MQQGHNU" target="_blank" rel="noopener noreferrer"><img alt="MQQGHNUのLAPRASでのスコアは次の通りです: エンジニアリング: 3.17 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.11 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.17&b=2.85&i=3.11&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 9/26/2026, 4:05:19 AM</p>
+<p ><a href="https://lapras.com/public/MQQGHNU" target="_blank" rel="noopener noreferrer"><img alt="MQQGHNUのLAPRASでのスコアは次の通りです: エンジニアリング: 3.18 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.11 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.18&b=2.85&i=3.11&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 9/27/2026, 4:18:39 AM</p>
 <!--END_SECTION:lapras-card-->
